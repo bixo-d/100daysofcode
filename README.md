@@ -1,2 +1,2 @@
 # 100daysofcode
-Coding at least one our a day
+Coding at least one hour a day
